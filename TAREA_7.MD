@@ -61,7 +61,7 @@ persona.es_mayor_de_edad();
 
 ```
 
-![I1]()
+![I1](https://github.com/Ruisu4869/TAREA-7/blob/master/E%201.png)
 
 ## Ejercicio #2
 
@@ -109,7 +109,7 @@ pers.retirar(retiro);
 pers.mostrar();
 ```
 
-![I2]()
+![I2](https://github.com/Ruisu4869/TAREA-7/blob/master/E%202.png)
 
 ## Ejercicio #3
 
@@ -174,7 +174,7 @@ oper.primos(cant);
 
 ```
 
-![I3]()
+![I3](https://github.com/Ruisu4869/TAREA-7/blob/master/E%203.png)
 
 ## Ejercicio #4
 
@@ -236,7 +236,7 @@ people.comprobarSexo();
 
 ```
 
-![I4]()
+![I4](https://github.com/Ruisu4869/TAREA-7/blob/master/E%204.png)
 
 
 ## Ejercicio #5
@@ -339,7 +339,7 @@ contra.seguridadPassword();
 
 ```
 
-![I5]()
+![I5](https://github.com/Ruisu4869/TAREA-7/blob/master/E%205.png)
 
 ## Ejercicio #6
 
@@ -373,7 +373,7 @@ contador1.inc();
 contador1.valorActual();
 ```
 
-![i6]()
+![i6](https://github.com/Ruisu4869/TAREA-7/blob/master/E%206.png)
 
 ## Ejercicio #7
 
@@ -434,7 +434,7 @@ contador1.inc();
 contador1.ultimoComando();
 ```
 
-![i7]()
+![i7](https://github.com/Ruisu4869/TAREA-7/blob/master/E%207.png)
 
 
 ## Ejercicio #8
@@ -476,7 +476,7 @@ chimuela.volar(50);
 chimuela.energy();
 ```
 
-![i8]()
+![i8](https://github.com/Ruisu4869/TAREA-7/blob/master/E%208.png)
 
 
 ## Ejercicio #9
@@ -550,7 +550,7 @@ chimuela.estaFeliz();
 chimuela.cuantoQuiereVolar();
 ```
 
-![I9]()
+![I9](https://github.com/Ruisu4869/TAREA-7/blob/master/E%209.png)
 
 ## Ejercicio #10
 
@@ -589,7 +589,7 @@ calc.multiplicar(2);
 calc.valorActuali();
 ```
 
-![I10]()
+![I10](https://github.com/Ruisu4869/TAREA-7/blob/master/E%2010.png)
 
 
 ## Ejercicio #11
@@ -634,7 +634,7 @@ libro1.devolucion();
 libro1.toString();
 ```
 
-![I11]()
+![I11](https://github.com/Ruisu4869/TAREA-7/blob/master/E%2011.png)
 
 
 ## Ejercicio #12
@@ -712,7 +712,7 @@ enterprice.recibirAtaque(35);
 enterprice.mostrar();
 ```
 
-![I12]()
+![I12](https://github.com/Ruisu4869/TAREA-7/blob/master/E%2012.png)
 
 ## Ejercicio #13
 
@@ -817,7 +817,7 @@ enterprice.fortalezaOfensiva();
 
 ```
 
-![I13]()
+![I13](https://github.com/Ruisu4869/TAREA-7/blob/master/E%2013.png)
 
 
 ## Ejercicio #14
@@ -938,4 +938,4 @@ coche.consumoActualPorKm();
 
 ```
 
-![I14]()
+![I14](https://github.com/Ruisu4869/TAREA-7/blob/master/E%2014.png)
